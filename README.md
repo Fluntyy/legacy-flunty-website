@@ -1,6 +1,6 @@
 # Flunty's Website
 
-This repository is source code of [https://flunty.netlify.app](https://flunty.netlify.app/)
+This repository is source code of [https://flunty.xyz](https://flunty.xyz/)
 
 ![Screenshot of Flunty's Website](https://i.imgur.com/X7VNhmD.jpeg)
 
