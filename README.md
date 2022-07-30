@@ -1,6 +1,6 @@
 # Flunty's Website
 
-![Netlify](https://img.shields.io/netlify/30ecd7be-d45b-46c7-8c35-1cb8acc183d2?color=%234A6B82&label=Build%3A&logo=Flunty&logoColor=%23FFF)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/Fluntyy/fluntywebsite?color=%234A6B82&label=Last%20commit%3A&logo=Flunty&logoColor=%23FFF)
 
 This repository is source code of [https://flunty.xyz](https://flunty.xyz/)
