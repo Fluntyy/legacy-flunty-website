@@ -102,14 +102,14 @@ nav ul li a {
     z-index: 2;
 }
 
-a.t:hover, a.active{
+a.t:hover, a.active {
     background: #203D4D;
     transition: .5s;
     font-family: Montserrat, sans-serif;
     z-index: 3;
 }
 
-.checkbtn{
+.checkbtn {
     padding: 22 0px;
     font-size: 30px;
     color: white;
@@ -122,16 +122,17 @@ a.t:hover, a.active{
     z-index: 2;
 }
 
-#check{
+#check {
     display: none;
 }
-@media (max-width: 858px){
-    .checkbtn{
+
+@media (max-width: 858px) {
+    .checkbtn {
       display: block;
       z-index: 2;
 }
 
-ul{
+ul {
     position: fixed;
     width: 100%;
     height: 100vh;
@@ -143,22 +144,22 @@ ul{
     z-index: 2;
 }
 
-nav ul li{
+nav ul li {
     display: block;
     margin: 50px 0;
     line-height: 30px;
     z-index: 2;
 }
-    nav ul li a{
+    nav ul li a {
     font-size: 20px;
     z-index: 2;
 }
 
-#check:checked ~ ul{
+#check:checked ~ ul {
     left: 0;
   }
 }
 
-.text a, .bottom a{
+.text a, .bottom a {
     color: #fff;
 }
