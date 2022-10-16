@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 34 34" width="34px" height="34px">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="34" height="34" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+  </g>
+</mask>
+<image id="image49741005" width="34" height="34" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAABmJLR0QA/wD/AP+gvaeTAAAAvUlEQVRYhe2XzQkCQQxGv/GnD7EM2V4sQ7YXEa/iZbEcQWxA7MB9HkSQMK4T2MFL3nESkneYQz4pCIZJ3wpAI2ktaZEp3yV1kg4ppb6SmwS0QM9vTsC8lkRTKPGmrSWydUgAnMfYO8m85f7EEMtaIlPnDG9/schfCBFLiFhCxBIilhCxhIglRCw5kYdzhre/WOTqnHGpJbKXhGPGbgyRLMCm8JLvgNkYO4cC1kqvgJU7jm96Baxj1YAVBB88AYvD1is9W5CdAAAAAElFTkSuQmCC"/>
+</defs>
+<g id="surface49741001">
+<use xlink:href="#image49741005" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 29.75 10.625 C 29.75 14.144531 26.894531 17 23.375 17 C 19.855469 17 17 14.144531 17 10.625 C 17 7.105469 19.855469 4.25 23.375 4.25 C 26.894531 4.25 29.75 7.105469 29.75 10.625 Z M 29.75 10.625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 29.75 23.375 C 29.75 26.894531 26.894531 29.75 23.375 29.75 C 19.855469 29.75 17 26.894531 17 23.375 C 17 19.855469 19.855469 17 23.375 17 C 26.894531 17 29.75 19.855469 29.75 23.375 Z M 29.75 23.375 "/>
+</g>
+</svg>

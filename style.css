@@ -24,6 +24,11 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+.contact a {
+    color: #fff;
 }
 
 .background {
@@ -56,8 +61,16 @@
     cursor: pointer;
 }
 
-.bottom {
+.credittext{
     font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    padding-left: 5px;
+    bottom: 5px;
+}
+
+.credittext p, .credittext a {
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
 }
 
 nav {
@@ -67,6 +80,22 @@ nav {
     z-index: 3;
     animation: .3s linear navani; 
     
+}
+
+.about {
+    font-size: 1vw;
+}
+
+.icons {
+    vertical-align: middle;
+    color: white;
+    font-size: 1.3vw;
+}
+
+.svg-icons {
+    vertical-align: middle;
+    width: 1.5vw;
+    height: 1.5vw;
 }
 
 label.logo {
@@ -102,7 +131,7 @@ nav ul li a {
     z-index: 2;
 }
 
-a.t:hover, a.active {
+a.unactive:hover, a.active {
     background: #203D4D;
     transition: .5s;
     font-family: Montserrat, sans-serif;
