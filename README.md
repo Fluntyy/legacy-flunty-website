@@ -12,7 +12,7 @@ This repository is source code of [https://flunty.xyz](https://flunty.xyz/)
 ### XAMPP
 Download [XAMPP](https://www.apachefriends.org/download.html)
 
-Download and extract [Flunty_Website.zip](https://github.com/Fluntyy/fluntywebsite/releases/download/Release/Flunty_Website.zip)
+Download and extract [Flunty's Website source code](https://github.com/Fluntyy/fluntywebsite/releases/latest)
 
 Go to XAMPP Directory
 
