@@ -33,6 +33,7 @@
 
 .background {
     background-image: url("assets/background.avif");
+    background-image: url("assets/background.png");
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
