@@ -38,7 +38,7 @@ This repository is source code of [https://flunty.xyz](https://flunty.xyz/)
 
 7. Open the ZIP file using **File Explorer** (or Windows Explorer) by double clicking, go to **Compressed Folder Tool**s tab and click **Extract All**, select the destination folder, and click **Extract**
 
-![Step 8](/readme/7.png)
+![Step 8](/readme/7_animated.gif)
 
 8. Go to [XAMPP directory]\htdocs, delete all of the files, and then copy the Flunty's Website source code to the folder.
 
